@@ -1,0 +1,11 @@
+C:\CsharpProjects\MatrizSubMatriz\bin\Debug\netcoreapp2.1\MatrizSubMatriz.deps.json
+C:\CsharpProjects\MatrizSubMatriz\bin\Debug\netcoreapp2.1\MatrizSubMatriz.runtimeconfig.json
+C:\CsharpProjects\MatrizSubMatriz\bin\Debug\netcoreapp2.1\MatrizSubMatriz.runtimeconfig.dev.json
+C:\CsharpProjects\MatrizSubMatriz\bin\Debug\netcoreapp2.1\MatrizSubMatriz.dll
+C:\CsharpProjects\MatrizSubMatriz\bin\Debug\netcoreapp2.1\MatrizSubMatriz.pdb
+C:\CsharpProjects\MatrizSubMatriz\obj\Debug\netcoreapp2.1\MatrizSubMatriz.csprojAssemblyReference.cache
+C:\CsharpProjects\MatrizSubMatriz\obj\Debug\netcoreapp2.1\MatrizSubMatriz.csproj.CoreCompileInputs.cache
+C:\CsharpProjects\MatrizSubMatriz\obj\Debug\netcoreapp2.1\MatrizSubMatriz.AssemblyInfoInputs.cache
+C:\CsharpProjects\MatrizSubMatriz\obj\Debug\netcoreapp2.1\MatrizSubMatriz.AssemblyInfo.cs
+C:\CsharpProjects\MatrizSubMatriz\obj\Debug\netcoreapp2.1\MatrizSubMatriz.dll
+C:\CsharpProjects\MatrizSubMatriz\obj\Debug\netcoreapp2.1\MatrizSubMatriz.pdb

@@ -1,0 +1,11 @@
+C:\CsharpProjects\MatrizContenedoraV4\bin\Debug\netcoreapp2.1\MatrizContenedoraV4.deps.json
+C:\CsharpProjects\MatrizContenedoraV4\bin\Debug\netcoreapp2.1\MatrizContenedoraV4.runtimeconfig.json
+C:\CsharpProjects\MatrizContenedoraV4\bin\Debug\netcoreapp2.1\MatrizContenedoraV4.runtimeconfig.dev.json
+C:\CsharpProjects\MatrizContenedoraV4\bin\Debug\netcoreapp2.1\MatrizContenedoraV4.dll
+C:\CsharpProjects\MatrizContenedoraV4\bin\Debug\netcoreapp2.1\MatrizContenedoraV4.pdb
+C:\CsharpProjects\MatrizContenedoraV4\obj\Debug\netcoreapp2.1\MatrizContenedoraV4.csprojAssemblyReference.cache
+C:\CsharpProjects\MatrizContenedoraV4\obj\Debug\netcoreapp2.1\MatrizContenedoraV4.csproj.CoreCompileInputs.cache
+C:\CsharpProjects\MatrizContenedoraV4\obj\Debug\netcoreapp2.1\MatrizContenedoraV4.AssemblyInfoInputs.cache
+C:\CsharpProjects\MatrizContenedoraV4\obj\Debug\netcoreapp2.1\MatrizContenedoraV4.AssemblyInfo.cs
+C:\CsharpProjects\MatrizContenedoraV4\obj\Debug\netcoreapp2.1\MatrizContenedoraV4.dll
+C:\CsharpProjects\MatrizContenedoraV4\obj\Debug\netcoreapp2.1\MatrizContenedoraV4.pdb

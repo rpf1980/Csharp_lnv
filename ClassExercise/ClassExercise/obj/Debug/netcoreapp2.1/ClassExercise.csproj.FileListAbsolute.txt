@@ -1,0 +1,10 @@
+C:\CsharpProjects\ClassExercise\ClassExercise\bin\Debug\netcoreapp2.1\ClassExercise.deps.json
+C:\CsharpProjects\ClassExercise\ClassExercise\bin\Debug\netcoreapp2.1\ClassExercise.runtimeconfig.json
+C:\CsharpProjects\ClassExercise\ClassExercise\bin\Debug\netcoreapp2.1\ClassExercise.runtimeconfig.dev.json
+C:\CsharpProjects\ClassExercise\ClassExercise\bin\Debug\netcoreapp2.1\ClassExercise.dll
+C:\CsharpProjects\ClassExercise\ClassExercise\bin\Debug\netcoreapp2.1\ClassExercise.pdb
+C:\CsharpProjects\ClassExercise\ClassExercise\obj\Debug\netcoreapp2.1\ClassExercise.csprojAssemblyReference.cache
+C:\CsharpProjects\ClassExercise\ClassExercise\obj\Debug\netcoreapp2.1\ClassExercise.AssemblyInfoInputs.cache
+C:\CsharpProjects\ClassExercise\ClassExercise\obj\Debug\netcoreapp2.1\ClassExercise.AssemblyInfo.cs
+C:\CsharpProjects\ClassExercise\ClassExercise\obj\Debug\netcoreapp2.1\ClassExercise.dll
+C:\CsharpProjects\ClassExercise\ClassExercise\obj\Debug\netcoreapp2.1\ClassExercise.pdb
